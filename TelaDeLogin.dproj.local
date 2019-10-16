@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/10/16 00:52:20.251,=D:\Documentos\Embarcadero Projects\Projetos de Teste\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 00:52:29.667,D:\Videos\Canais\Jefersson Jeiel\Projetos do Canal\WORKSHOP Boas Práticas de Layout\workshop\video #2 - tela de login moderna\projeto\untApp.fmx=D:\Documentos\Embarcadero Projects\Projetos de Teste\Unit1.fmx</Transaction>
+    <Transaction>2019/10/16 00:52:29.667,D:\Videos\Canais\Jefersson Jeiel\Projetos do Canal\WORKSHOP Boas Práticas de Layout\workshop\video #2 - tela de login moderna\projeto\untApp.pas=D:\Documentos\Embarcadero Projects\Projetos de Teste\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 00:52:39.752,D:\Videos\Canais\Jefersson Jeiel\Projetos do Canal\WORKSHOP Boas Práticas de Layout\workshop\video #2 - tela de login moderna\projeto\TelaDeLogin.dproj=D:\Documentos\Embarcadero Projects\Projetos de Teste\Project1.dproj</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5" Android="4795039d"/>
+  </ActiveMobileDevice>
+</BorlandProject>
